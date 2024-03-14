@@ -675,6 +675,7 @@ img {
     }
 
     .newsContainer {
+        margin-top: 4rem;
         flex-direction: column;
         height: 100rem;
     }
