@@ -579,7 +579,7 @@ img {
 }
 
 
-@media screen and (max-width:  1200px) {
+@media screen and (max-width:  768px) {
     .headerContainer {
         padding: 2rem;
     }
@@ -616,30 +616,30 @@ img {
     }
 
     .sliderNavBlocktext h3 {
-        font-size:20px;
+        font-size:1.25rem;
     }
     
     .sliderNavBlocktext span {
-        font-size: 15px;
+        font-size: 1rem;
         font-weight:500;
         color: white;
     }
     .changeHeaderktext h3 {
-        font-size: 30px;
+        font-size: 3rem;
     }
     .sliderNavBlockButton {
         position: absolute;
         right: 10rem;
         width: 3rem;
         height: 1.5rem;
-        font-size: 10px;
+        font-size: 0.6rem;
         background-color: #FFEC43;
         border: none;
     }
 
     .changeHeaderktextDiv{
         padding: 1rem;
-        font-size: 20px;
+        font-size: 1.25rem;
     }
 
   
@@ -689,5 +689,6 @@ img {
         gap: 2rem;
     }
 }
+
 
 
